@@ -11,7 +11,7 @@ To troubleshoot, I attempted to visit the site myself and encountered the same e
 📊 **Network Packet Log Sample**  
 The following screenshot shows real-time packet capture during analysis:
 
-![Packet Log Screenshot](./packet_log.png)
+![Packet Log Screenshot](https://github.com/i-am-rehan/Activity-Analyze-network-layer-communication/blob/main/Screenshot%202025-07-06%20224008.png)
 
 ### 🔧 Tools & Techniques Used
 - **tcpdump** – for packet capture and protocol analysis  
